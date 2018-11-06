@@ -1,0 +1,23 @@
+{
+  "name": "api-workshop",
+  "version": "1.0.0",
+  "description": "## Getting started Make sure you have node and git installed in your local machine. If you have not done so, please go to the master branch of this repo and follow the instructions.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ccnyacm/api-workshop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ccnyacm/api-workshop/issues"
+  },
+  "homepage": "https://github.com/ccnyacm/api-workshop#readme",
+  "dependencies": {
+    "dotenv": "^6.1.0",
+    "express": "^4.16.4"
+  }
+}
