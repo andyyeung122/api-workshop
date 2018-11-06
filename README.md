@@ -25,12 +25,12 @@ There are two ways to test it. One is using your favorite web browser. The other
 
 Open Postman, and create a new workspace.
 Because we only created `GET` methods, select GET on Postman and then selected the URL to be `http://localhost:3000/`. Click send, and you should see as a response the `Hello World` text. Should look like this:
-[hello world](helloWorldPM.png?raw=true)
+![hello world](helloWorldPM.png)
 
 Cool right?
 
 Now if we test the books endpoint, and call it by using the URL on Postman: `http://localhost:3000/books`, you should get the following:
-[books](booksPM.png)
+![books](booksPM.png)
 
 And that is all we covered today. More to come!
 
